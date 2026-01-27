@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi 👋 I'm Mariem
 
-<!--
-**Mariem-Khayati/Mariem-Khayati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Analyst with a strong interest in:
+- Data Science
+- Business Intelligence
+- Deep Learning
+- Financial Analytics
 
-Here are some ideas to get you started:
+🛠 Skills:
+- Python
+- SQL
+- Power BI
+- Machine Learning
+- Time Series Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Ariana, Tunis
