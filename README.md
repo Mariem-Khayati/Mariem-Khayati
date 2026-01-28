@@ -4,7 +4,6 @@
 - Data Science
 - Business Intelligence
 - Deep Learning
-- Financial Analytics
 
 🛠 Skills:
 - Python
