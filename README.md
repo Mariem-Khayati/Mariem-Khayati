@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Mariem
 
-🎓 Data Analyst with a strong interest in:
+🎓 Business Analyst with a strong interest in:
 - Data Science
 - Business Intelligence
 - Deep Learning
